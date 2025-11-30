@@ -11,3 +11,5 @@ __pycache__/
 /.cache
 /.vscode
 docs/_build
+**/build
+**/.vscode
